@@ -1,2 +1,2 @@
 # Basic-React-App
-Repository to understand the basics of React
+Application to understand the basics of React
